@@ -22,7 +22,15 @@ Whatever : Badbehaviour
 	
    }
 
+
    public breakThisNow()
    {
 	Debug.Log("I DON"T WANT YOUR MERGE CONFLICTS!!!!!!");
    }
+
+   public bool IgnoreHomework()
+   {
+
+	return true;
+   }
+
