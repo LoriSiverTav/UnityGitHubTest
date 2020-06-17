@@ -1,0 +1,14 @@
+Player health = 100
+
+function ReceiveDamage
+{
+	if(Player health > 0)
+            {
+	       Player health -= 10;
+            }
+}
+
+function GainHealth
+{
+	health += 10
+}
