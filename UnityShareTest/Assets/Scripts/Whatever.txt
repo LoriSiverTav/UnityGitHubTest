@@ -19,5 +19,10 @@ Whatever : Badbehaviour
    public bool LoafAround()
 
    {
-	Debug.Log("I"ve Done'd Goofed")
+	
+   }
+
+   public breakThisNow()
+   {
+	Debug.Log("I DON"T WANT YOUR MERGE CONFLICTS!!!!!!");
    }
