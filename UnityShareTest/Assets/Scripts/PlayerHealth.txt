@@ -1,0 +1,11 @@
+Player health = 100
+
+function ReceiveDamage
+{
+	
+}
+
+function GainHealth
+{
+	
+}
