@@ -7,5 +7,5 @@ function ReceiveDamage
 
 function GainHealth
 {
-	
+	health += 10
 }
