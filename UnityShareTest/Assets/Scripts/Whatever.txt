@@ -1,0 +1,15 @@
+Whatever : Badbehaviour
+
+   public bool SleepIn()
+
+   {
+
+   }
+
+
+   
+   public bool LoafAround()
+
+   {
+
+   }
