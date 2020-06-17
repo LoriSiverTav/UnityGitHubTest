@@ -19,5 +19,5 @@ Whatever : Badbehaviour
    public bool LoafAround()
 
    {
-
+	Debug.Log("I"ve Done'd Goofed")
    }
