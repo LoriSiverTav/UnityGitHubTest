@@ -3,7 +3,15 @@ Whatever : Badbehaviour
    public bool SleepIn()
 
    {
+	if(!panic && !isLateForSchool)
+	   {
+		return true;
+	   }
 
+	else
+	   {
+		return false;
+	   }
    }
 
 
