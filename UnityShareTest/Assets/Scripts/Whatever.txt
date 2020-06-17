@@ -21,3 +21,9 @@ Whatever : Badbehaviour
    {
 	Debug.Log("I"ve Done'd Goofed")
    }
+
+   public bool IgnoreHomework()
+   {
+
+	return true;
+   }
